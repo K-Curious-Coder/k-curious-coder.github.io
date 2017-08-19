@@ -14,7 +14,7 @@ The steps used for hosting this Angular repo on GitHub Pages are as follows:
 ### Step 0 is only required once:
 #### npm install -g angular-cli-ghpages
 
-Create a repository named using your GitHub user name e.g. [user-name] that will give a GitHub Pages URL of the form user-name.github.io
+Create a repository named using your GitHub user name joined to .github.io e.g. [user-name.github.io] that will give a GitHub Pages URL of the form user-name.github.io
 
 This will generate the needed git commands that you will/may need to copy for later use.
 
